@@ -1,0 +1,24 @@
+{
+  "name": "Password-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninakd21/friendly-parakeet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninakd21/friendly-parakeet/issues"
+  },
+  "homepage": "https://github.com/ninakd21/friendly-parakeet#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
